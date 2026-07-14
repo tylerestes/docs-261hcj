@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-1b24mx.citysinglescommunity.com/sitemap.xml
